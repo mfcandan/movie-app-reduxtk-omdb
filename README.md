@@ -1,6 +1,6 @@
 # Movie App with Redux Toolkit
 
-![Ekran Görüntüsü 1](ss1.png)
+![Ekran Görüntüsü 1](ss1_.png)
 ![Ekran Görüntüsü 2](ss2.png)
 
 ## Proje Açıklaması
