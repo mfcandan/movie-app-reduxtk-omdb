@@ -21,7 +21,7 @@ Projeyi çalıştırmak için aşağıdaki adımları izleyin:
 
 2. Proje klasörüne gidin.
     ```bash
-    cd proje-adiniz
+    cd movie-app-reduxtk-omdb
 
 3. Node Modüllerini yükleyin.
     ```bash
