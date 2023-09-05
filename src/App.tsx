@@ -1,25 +1,18 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Container, Flex, Text } from '@mantine/core';
+import MovieList from './components/MovieList';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Container>
+      <Flex h="100vh" direction="column" justify="center">
+        <h1>💫 Movie Map: Film Arama Motoru </h1>
+        <Text mb="lg">
+          🔎 Arama yapmak için aşağıdaki arama kutusuna bir film adı girin ve
+          arama butonuna tıklayın. Dilerseniz yayınlanma yılı ve tür bilgilerini de girerek aramanızı daraltabilirsiniz.
+        </Text>
+        <MovieList />
+      </Flex>
+    </Container>
   );
 }
 
