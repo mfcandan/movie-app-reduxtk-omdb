@@ -4,7 +4,7 @@
 
 Bu proje, React ve Redux Toolkit kullanılarak geliştirilmiş bir film arama uygulamasını içerir. OMDB API'sini kullanarak film bilgilerini arayabilir ve detaylarını görüntüleyebilirsiniz. UI lib olarak MantineUI kullanılmıştır.
 
-**Teknolojiler:** React, Redux Toolkit, Mantine UI
+**Teknolojiler:** React, Redux Toolkit, React Router 6, Mantine UI
 
 **Demo:** [Canlı Demo](https://movie-app-reduxtk-omdb.vercel.app/)
 
