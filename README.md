@@ -1,8 +1,11 @@
 # Movie App with Redux Toolkit
 
+![Ekran Görüntüsü 1](ss1.png)
+![Ekran Görüntüsü 2](ss2.png)
+
 ## Proje Açıklaması
 
-Bu proje, React ve Redux Toolkit kullanılarak geliştirilmiş bir film arama uygulamasını içerir. OMDB API'sini kullanarak film bilgilerini arayabilir ve detaylarını görüntüleyebilirsiniz. UI lib olarak MantineUI kullanılmıştır.
+Bu proje, React ve Redux Toolkit kullanılarak geliştirilmiş bir film arama uygulamasını içerir. OMDb API'sini kullanarak film bilgilerini arayabilir ve detaylarını görüntüleyebilirsiniz. UI lib olarak MantineUI kullanılmıştır.
 
 **Teknolojiler:** React, Redux Toolkit, React Router 6, Mantine UI
 
@@ -10,11 +13,11 @@ Bu proje, React ve Redux Toolkit kullanılarak geliştirilmiş bir film arama uy
 
 ## Kurulum
 
-Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
+Projeyi çalıştırmak için aşağıdaki adımları izleyin:
 
 1. Bu projeyi klonlayın.
    ```bash
-   git clone https://github.com/KULLANICI_ADINIZ/proje-adiniz.git
+   git clone https://github.com/mfcandan/movie-app-reduxtk-omdb.git
 
 2. Proje klasörüne gidin.
     ```bash
@@ -31,6 +34,3 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
     npm start
 
 6. Tarayıcınızda http://localhost:3000 adresinde çalışacaktır.
-
-![Ekran Görüntüsü 1](ss1.png)
-![Ekran Görüntüsü 2](ss2.png)
